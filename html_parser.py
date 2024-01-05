@@ -31,7 +31,7 @@ html_codes = {
     "Single Graphic Table": '''<P STYLE="font: bold 11pt Calibri, Helvetica, Sans-Serif; margin: 5pt 0 3 0pt; color: #E84563"><IMG SRC="image_gt.jpg" STYLE="height: 700pt; width: 650pt"></P>''',
     "Provided": "Proofs will be provided shortly.",
     "Updated": "Proofs have been updated.",
-    "❤️": "I love you too ❤️"
+    "gg": "gg"
 }
 
 # Text area for displaying HTML code
